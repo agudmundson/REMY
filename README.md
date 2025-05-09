@@ -14,6 +14,7 @@ A fully automated cross-platform software application for completing the MRS in 
 
 ## Citation:
 If you find this tool useful, please cite:
+
 Susnjar A, Kaiser A, Simicic D, Nossa G, Lin A, Oeltzschner G, et al. Reproducibility Made Easy: A Tool for Methodological Transparency and Efficient Standardized Reporting Based on the Proposed MRSinMRS Consensus. NMR in Biomedicine. 2025;38(6):e70039. 
 
 https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.70039
